@@ -1,4 +1,4 @@
-# zirtue
+# React Native Sample Project
 Only front-end part
 
 ## Screenshot
@@ -18,17 +18,15 @@ Please follow the below instruction get it running.
 
 ```
 node > 8.x
-yarn > 1.x
 ```
 
 ### Installing
 
 ```
-npm install -g yarn
-yarn
+npm install
+react-native start
 ```
 
 ### iOS
 
-Please open ZirtuePayee.xcodeproj in src/ios
-Run the project in xcode
+react-native run-ios
