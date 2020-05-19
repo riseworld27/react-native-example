@@ -12,7 +12,7 @@ Only front-end part
 
 ## Getting Started
 
-Please follow the below instruction get it running.
+Please follow the below instruction to get it running.
 
 ### Prerequisites
 
@@ -24,9 +24,11 @@ node > 8.x
 
 ```
 npm install
-react-native start
 ```
 
 ### iOS
 
-react-native run-ios
+```
+npx react-native start
+npx react-native run-ios
+```
